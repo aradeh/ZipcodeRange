@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e906f4cb-b376-4122-9504-f7c88e56b44d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZipcodeProcess.java" afterDir="false" />
+    <list default="true" id="e906f4cb-b376-4122-9504-f7c88e56b44d" name="Default Changelist" comment="compute and validate the input zipcodes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
     </list>
@@ -28,14 +27,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="1132" />
-          <entry key="txt" value="93" />
+          <entry key="txt" value="139" />
           <entry key="xml" value="171" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1132" />
-          <entry key="PLAIN_TEXT" value="93" />
+          <entry key="PLAIN_TEXT" value="139" />
           <entry key="XML" value="171" />
         </counts>
       </usages-collector>
@@ -94,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ZipcodeProcess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1242">
-              <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+            <state relative-caret-position="297">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding>
                 <element signature="e#135#136#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
@@ -197,7 +196,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609458395890" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609458464537" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -262,12 +261,25 @@
       <option name="project" value="LOCAL" />
       <updated>1609456310651</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="compute and validate the input zipcodes.">
+      <created>1609458425604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609458425605</updated>
+    </task>
+    <task id="LOCAL-00005" summary="compute and validate the input zipcodes.">
+      <created>1609458437797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609458437797</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.14004377" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -303,7 +315,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="reading input as string" />
     <MESSAGE value="store the zipcode string and sort with first lowest zipcodes" />
-    <option name="LAST_COMMIT_MESSAGE" value="store the zipcode string and sort with first lowest zipcodes" />
+    <MESSAGE value="compute and validate the input zipcodes." />
+    <option name="LAST_COMMIT_MESSAGE" value="compute and validate the input zipcodes." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -347,8 +360,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ZipcodeProcess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+        <state relative-caret-position="297">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
           <folding>
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#185#186#0" expanded="true" />
