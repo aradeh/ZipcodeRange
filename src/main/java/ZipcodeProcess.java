@@ -1,3 +1,7 @@
+/*
+* Validate all zip codes
+* */
+
 
 import java.util.*;
 
